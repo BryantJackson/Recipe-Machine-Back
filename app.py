@@ -255,4 +255,4 @@ def get_weekdays(advance_week):
 
 
 if __name__ == '__main__':
-	app.run(debug=True, host='localhost')
+	app.run(host='localhost')
