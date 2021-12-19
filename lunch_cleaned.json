@@ -1,6 +1,7 @@
 [
   {
     "url": "https://www.allrecipes.com/recipe/244326/greek-farro-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2406847.jpg",
     "name": "Greek Farro Salad",
     "prep": "15 Mins",
     "cook": "35 Mins",
@@ -35,6 +36,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/99873/apple-curry-turkey-pita/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3087557.jpg",
     "name": "Apple Curry Turkey Pita",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -61,6 +63,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/60037/california-melt/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F08%2F11%2F60037-6-2x1-1.jpg",
     "name": "California Melt",
     "prep": "15 Mins",
     "cook": "2 Mins",
@@ -86,6 +89,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/91478/bbq-tuna-fritters/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4557217.jpg",
     "name": "BBQ Tuna Fritters",
     "prep": "5 Mins",
     "cook": "20 Mins",
@@ -113,6 +117,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/215280/refreshing-lentil-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F691198.jpg",
     "name": "Refreshing Lentil Salad",
     "prep": "25 Mins",
     "cook": "30 Mins",
@@ -149,6 +154,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/83637/green-bean-and-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3851835.jpg",
     "name": "Green Bean and Potato Salad",
     "prep": "15 Mins",
     "cook": "30 Mins",
@@ -178,6 +184,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/142892/slow-cooker-spicy-black-eyed-peas/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1071417.jpg",
     "name": "Slow Cooker Spicy Black-Eyed Peas",
     "prep": "30 Mins",
     "cook": "6 Hours 0 Mins",
@@ -208,6 +215,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/141314/the-best-vegetable-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F952228.jpg",
     "name": "The Best Vegetable Salad",
     "prep": "30 Mins",
     "cook": "n/a",
@@ -241,6 +249,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/257491/layered-norcal-nicoise-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4484683.jpg",
     "name": "Layered \"NorCal\" Nicoise Salad",
     "prep": "25 Mins",
     "cook": "8 Mins",
@@ -282,6 +291,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/233968/lemon-chicken-orzo-soup/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1052559.jpg",
     "name": "Lemon Chicken Orzo Soup",
     "prep": "20 Mins",
     "cook": "1 Hours 0 Mins",
@@ -290,9 +300,9 @@
     "ingredients": [
       "8 ounces orzo pasta",
       "1 teaspoon olive oil",
-      "3 carrots, chopped, or more to taste",
+      "3 medium carrots, chopped, or more to taste",
       "3 ribs celery, chopped",
-      "1 onion, chopped",
+      "1 medium onion, chopped",
       "2 cloves garlic, minced",
       "\u00bd teaspoon dried thyme",
       "\u00bd teaspoon dried oregano",
@@ -319,6 +329,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222119/healthier-sloppy-joes-ii/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F876321.jpg",
     "name": "Healthier Sloppy Joes II",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -346,6 +357,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/241407/raw-beet-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2113748.jpg",
     "name": "Raw Beet Salad",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -371,6 +383,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/142614/grilled-fish-tacos-with-chipotle-lime-dressing/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F374569.jpg",
     "name": "Grilled Fish Tacos with Chipotle-Lime Dressing",
     "prep": "35 Mins",
     "cook": "9 Mins",
@@ -417,6 +430,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/140422/onigiri-japanese-rice-balls/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F852429.jpg",
     "name": "Onigiri - Japanese Rice Balls",
     "prep": "20 Mins",
     "cook": "30 Mins",
@@ -443,6 +457,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/217935/sopa-de-fideos/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7026905.jpg",
     "name": "Sopa de Fideos",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -471,6 +486,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/76469/mexican-ceviche/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F07%2F26%2F76469_MexicanCeviche_MFS_414.jpg",
     "name": "Mexican Ceviche",
     "prep": "30 Mins",
     "cook": "30 Mins",
@@ -500,6 +516,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/228116/warm-dijon-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F935331.jpg",
     "name": "Warm Dijon Potato Salad",
     "prep": "15 Mins",
     "cook": "20 Mins",
@@ -529,6 +546,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/16715/vegetarian-chickpea-sandwich-filling/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F362677.jpg",
     "name": "Vegetarian Chickpea Sandwich Filling",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -553,6 +571,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/215030/taco-slaw/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5397998.jpg",
     "name": "Taco Slaw",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -576,6 +595,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/246949/hatch-chile-salsa/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3767820.jpg",
     "name": "Hatch Chile Salsa",
     "prep": "10 Mins",
     "cook": "5 Mins",
@@ -601,6 +621,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/234655/freezer-slaw/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2376098.jpg",
     "name": "Freezer Slaw",
     "prep": "20 Mins",
     "cook": "5 Mins",
@@ -630,6 +651,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/25160/summer-corn-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1169760.jpg",
     "name": "Summer Corn Salad",
     "prep": "25 Mins",
     "cook": "20 Mins",
@@ -655,6 +677,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/160623/quick-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F848870.jpg",
     "name": "Quick Potato Salad",
     "prep": "20 Mins",
     "cook": "5 Mins",
@@ -683,6 +706,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/214920/summer-anytime-crisp-corn-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1224379.jpg",
     "name": "Summer Anytime Crisp Corn Salad",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -710,6 +734,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/232728/old-fashioned-baked-beans/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2300621.jpg",
     "name": "Old Fashioned Baked Beans",
     "prep": "15 Mins",
     "cook": "6 Hours 20 Mins",
@@ -738,6 +763,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/188444/mexican-bean-and-rice-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8206885.jpg",
     "name": "Mexican Bean and Rice Salad",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -768,6 +794,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/149218/spiced-slow-cooker-applesauce/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F277498.jpg",
     "name": "Spiced Slow Cooker Applesauce",
     "prep": "10 Mins",
     "cook": "6 Hours 30 Mins",
@@ -789,6 +816,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/238134/crusty-herb-potato-wedges/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2325190.jpg",
     "name": "Crusty Herb Potato Wedges",
     "prep": "10 Mins",
     "cook": "35 Mins",
@@ -813,6 +841,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/238162/vegan-black-bean-and-sweet-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2856152.jpg",
     "name": "Vegan Black Bean and Sweet Potato Salad",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -842,6 +871,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/235121/california-tacos/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1092271.jpg",
     "name": "California Tacos",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -873,6 +903,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/128885/marinated-black-eyed-pea-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1010958.jpg",
     "name": "Marinated Black-Eyed Pea Salad",
     "prep": "30 Mins",
     "cook": "n/a",
@@ -905,6 +936,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/214986/strawberry-melon-summer-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F656452.jpg",
     "name": "Strawberry-Melon Summer Salad",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -928,6 +960,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/217051/cranberry-and-cilantro-quinoa-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1081167.jpg",
     "name": "Cranberry and Cilantro Quinoa Salad",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -958,6 +991,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/235827/pressure-cooker-black-beans/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5366415.jpg",
     "name": "Pressure Cooker Black Beans",
     "prep": "10 Mins",
     "cook": "40 Mins",
@@ -982,6 +1016,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/220468/fig-and-arugula-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2331988.jpg",
     "name": "Fig and Arugula Salad",
     "prep": "15 Mins",
     "cook": "n/a",
@@ -1006,6 +1041,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/157825/slow-cooker-ham-and-beans/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F592321.jpg",
     "name": "Slow Cooker Ham and Beans",
     "prep": "10 Mins",
     "cook": "12 Hours 0 Mins",
@@ -1032,6 +1068,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/80663/bread-machine-pumpernickel-bread/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4424449.jpg",
     "name": "Bread Machine Pumpernickel Bread",
     "prep": "10 Mins",
     "cook": "3 Hours 45 Mins",
@@ -1060,6 +1097,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/161535/espinacas-con-garbanzos-spinach-with-garbanzo-beans/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F696447.jpg",
     "name": "Espinacas con Garbanzos (Spinach with Garbanzo Beans)",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -1084,6 +1122,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/143619/curtido-el-salvadoran-cabbage-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F297060.jpg",
     "name": "Curtido (El Salvadoran Cabbage Salad)",
     "prep": "20 Mins",
     "cook": "5 Mins",
@@ -1108,6 +1147,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/221344/schwabischer-kartoffelsalat-german-potato-salad-schwabisch-style/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F950748.jpg",
     "name": "Schwabischer Kartoffelsalat (German Potato Salad - Schwabisch Style)",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -1133,6 +1173,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/216688/turkey-veggie-meatloaf-cups/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4556887.jpg",
     "name": "Turkey Veggie Meatloaf Cups",
     "prep": "20 Mins",
     "cook": "25 Mins",
@@ -1161,6 +1202,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/240458/pico-de-gallo-with-cabbage-mexican-coleslaw/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1823582.jpg",
     "name": "Pico de Gallo with Cabbage  (Mexican Coleslaw)",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -1189,6 +1231,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/215472/berry-fruit-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9155453.jpg",
     "name": "Berry Fruit Salad",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -1211,6 +1254,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/163867/vegetarian-sloppy-joes/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F422585.jpg",
     "name": "Vegetarian Sloppy Joes",
     "prep": "20 Mins",
     "cook": "20 Mins",
@@ -1248,6 +1292,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/223507/green-gazpacho/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F861843.jpg",
     "name": "Green Gazpacho",
     "prep": "25 Mins",
     "cook": "n/a",
@@ -1274,6 +1319,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/143555/mandarin-chicken-pasta-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F461976.jpg",
     "name": "Mandarin Chicken Pasta Salad",
     "prep": "45 Mins",
     "cook": "8 Mins",
@@ -1311,6 +1357,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/231344/oktoberfest-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F968107.jpg",
     "name": "Oktoberfest Potato Salad",
     "prep": "20 Mins",
     "cook": "30 Mins",
@@ -1343,6 +1390,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/92486/grilled-peanut-butter-and-banana-sandwich/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F338144.jpg",
     "name": "Grilled Peanut Butter and Banana Sandwich",
     "prep": "2 Mins",
     "cook": "10 Mins",
@@ -1364,6 +1412,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/231151/amazingly-good-and-healthy-tuna-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1001465.jpg",
     "name": "Amazingly Good and Healthy Tuna Salad",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -1390,6 +1439,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/237811/summer-veggie-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2264121.jpg",
     "name": "Summer Veggie Salad",
     "prep": "20 Mins",
     "cook": "5 Mins",
@@ -1418,6 +1468,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/237349/caesar-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1123424.jpg",
     "name": "Caesar Potato Salad",
     "prep": "15 Mins",
     "cook": "30 Mins",
@@ -1445,6 +1496,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222816/lower-fat-coleslaw/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7542166.jpg",
     "name": "Lower-Fat Coleslaw",
     "prep": "30 Mins",
     "cook": "n/a",
@@ -1473,6 +1525,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/231357/cold-lentil-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9230568.jpg",
     "name": "Cold Lentil Salad",
     "prep": "30 Mins",
     "cook": "30 Mins",
@@ -1504,6 +1557,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/232324/easy-corn-salad-great-side-for-bbqs/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2288867.jpg",
     "name": "Easy Corn Salad - Great Side for BBQs",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -1531,6 +1585,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/242178/watermelon-salad-with-grapes-and-citrus/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5494999.jpg",
     "name": "Watermelon Salad with Grapes and Citrus",
     "prep": "15 Mins",
     "cook": "n/a",
@@ -1552,6 +1607,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222722/kale-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1006672.jpg",
     "name": "Kale Salad",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -1579,6 +1635,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/214982/red-bbq-slaw/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4708181.jpg",
     "name": "Red BBQ Slaw",
     "prep": "15 Mins",
     "cook": "n/a",
@@ -1602,6 +1659,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/24932/whole-wheat-beer-bread/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F390936.jpg",
     "name": "Whole Wheat Beer Bread",
     "prep": "10 Mins",
     "cook": "50 Mins",
@@ -1627,6 +1685,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/133862/black-bean-and-chickpea-chili/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2272702.jpg",
     "name": "Black Bean and Chickpea Chili",
     "prep": "20 Mins",
     "cook": "40 Mins",
@@ -1659,6 +1718,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/148540/spicy-red-bell-pepper-soup/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8145434.jpg",
     "name": "Spicy Red Bell Pepper Soup",
     "prep": "40 Mins",
     "cook": "35 Mins",
@@ -1690,6 +1750,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/63096/sweet-carrot-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2457392.jpg",
     "name": "Sweet Carrot Salad",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -1713,6 +1774,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/109587/tilapia-ceviche/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2095595.jpg",
     "name": "Tilapia Ceviche",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -1739,6 +1801,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/114978/tuna-fish-pea-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F463312.jpg",
     "name": "Tuna Fish Pea Salad",
     "prep": "5 Mins",
     "cook": "n/a",
@@ -1761,6 +1824,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/25739/chickpea-and-tomato-soup/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1100031.jpg",
     "name": "Chickpea and Tomato Soup",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -1786,6 +1850,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/235928/black-eyed-peas-and-rice/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1924270.jpg",
     "name": "Black-Eyed Peas and Rice",
     "prep": "15 Mins",
     "cook": "50 Mins",
@@ -1816,6 +1881,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/130808/moms-portuguese-beef-stew/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F970527.jpg",
     "name": "Mom's Portuguese Beef Stew",
     "prep": "30 Mins",
     "cook": "1 Hours 30 Mins",
@@ -1852,6 +1918,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/238655/summer-cucumber-jicama-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9274061.jpg",
     "name": "Summer Cucumber Jicama Salad",
     "prep": "15 Mins",
     "cook": "n/a",
@@ -1875,6 +1942,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/214756/ukrainian-salat-vinaigrette-beet-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1121568.jpg",
     "name": "Ukrainian Salat Vinaigrette (Beet Salad)",
     "prep": "30 Mins",
     "cook": "30 Mins",
@@ -1903,6 +1971,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/229144/savory-sweet-potato-fries/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1030002.jpg",
     "name": "Savory Sweet Potato Fries",
     "prep": "20 Mins",
     "cook": "20 Mins",
@@ -1926,6 +1995,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/237764/lemon-basil-quinoa-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1129201.jpg",
     "name": "Lemon-Basil Quinoa Salad",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -1951,6 +2021,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/151249/jennys-sweet-waldorf-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4557208.jpg",
     "name": "Jenny's Sweet Waldorf Salad",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -1982,6 +2053,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/89982/dill-gazpacho/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2578103.jpg",
     "name": "Dill Gazpacho",
     "prep": "25 Mins",
     "cook": "n/a",
@@ -2011,6 +2083,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/85165/spicy-mango-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F22476.jpg",
     "name": "Spicy Mango Salad",
     "prep": "15 Mins",
     "cook": "n/a",
@@ -2035,6 +2108,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/233169/shredded-apple-carrot-salad/",
+    "imageUrl": "https://www.allrecipes.com/img/misc/og-default.png",
     "name": "Shredded Apple Carrot Salad",
     "prep": "15 Mins",
     "cook": "5 Mins",
@@ -2065,6 +2139,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/258481/zucchini-carrot-patties-with-bacon/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5119159.jpg",
     "name": "Zucchini Carrot Patties with Bacon",
     "prep": "30 Mins",
     "cook": "23 Mins",
@@ -2097,6 +2172,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/244608/chicken-chow-mein-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2708429.jpg",
     "name": "Chicken Chow Mein Salad",
     "prep": "15 Mins",
     "cook": "n/a",
@@ -2123,6 +2199,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/25760/shrimp-noodle-soup/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F52398.jpg",
     "name": "Shrimp Noodle Soup",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -2153,6 +2230,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/103737/celery-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1092820.jpg",
     "name": "Celery Salad",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -2180,6 +2258,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/233712/lemon-pea-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2564396.jpg",
     "name": "Lemon Pea Salad",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -2200,6 +2279,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/241930/savory-spanish-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2222505.jpg",
     "name": "Savory Spanish Potato Salad",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -2229,6 +2309,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/214609/cilantro-tabouli/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F667173.jpg",
     "name": "Cilantro Tabouli",
     "prep": "30 Mins",
     "cook": "5 Mins",
@@ -2258,6 +2339,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/146176/garlic-lovers-grilled-corn/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F841904.jpg",
     "name": "Garlic Lover's Grilled Corn",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -2283,6 +2365,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/106515/peruvian-chicken-soup-aguadito-de-pollo/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1089036.jpg",
     "name": "Peruvian Chicken Soup (Aguadito de Pollo)",
     "prep": "40 Mins",
     "cook": "50 Mins",
@@ -2314,6 +2397,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/236000/smooth-broccoli-vitamix-soup/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1088063.jpg",
     "name": "Smooth Broccoli Vitamix&reg; Soup",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -2343,6 +2427,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222241/mediterranean-three-bean-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F945324.jpg",
     "name": "Mediterranean Three Bean Salad",
     "prep": "15 Mins",
     "cook": "n/a",
@@ -2369,6 +2454,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222661/egyptian-lentil-soup/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5196784.jpg",
     "name": "Egyptian Lentil Soup",
     "prep": "15 Mins",
     "cook": "30 Mins",
@@ -2399,6 +2485,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/93100/italian-eggplant-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7525660.jpg",
     "name": "Italian Eggplant Salad",
     "prep": "15 Mins",
     "cook": "1 Hours 30 Mins",
@@ -2426,6 +2513,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/157872/winter-chicken-bake/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6269062.jpg",
     "name": "Winter Chicken Bake",
     "prep": "25 Mins",
     "cook": "55 Mins",
@@ -2453,6 +2541,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/215695/spicy-dill-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1492367.jpg",
     "name": "Spicy Dill Potato Salad",
     "prep": "30 Mins",
     "cook": "35 Mins",
@@ -2487,6 +2576,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/237139/almost-fat-free-green-onion-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1124195.jpg",
     "name": "Almost Fat-Free Green Onion Potato Salad",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -2514,6 +2604,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/220615/apple-potato-pancakes/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F846255.jpg",
     "name": "Apple Potato Pancakes",
     "prep": "20 Mins",
     "cook": "20 Mins",
@@ -2544,6 +2635,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/153472/no-cook-poor-mans-caviar/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F330096.jpg",
     "name": "No-Cook Poor Man's Caviar",
     "prep": "30 Mins",
     "cook": "n/a",
@@ -2576,6 +2668,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/166847/grilled-apple-and-swiss-cheese-sandwich/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4218273.jpg",
     "name": "Grilled Apple and Swiss Cheese Sandwich",
     "prep": "10 Mins",
     "cook": "5 Mins",
@@ -2597,6 +2690,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/244512/roasted-beet-arugula-and-walnut-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2474916.jpg",
     "name": "Roasted Beet, Arugula, and Walnut Salad",
     "prep": "10 Mins",
     "cook": "40 Mins",
@@ -2624,6 +2718,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/247238/marges-bone-broth/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3588628.jpg",
     "name": "Marge's Bone Broth",
     "prep": "30 Mins",
     "cook": "n/a",
@@ -2657,6 +2752,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/155552/lemony-quinoa/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F557448.jpg",
     "name": "Lemony Quinoa",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -2686,6 +2782,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/149752/lebanese-fattoush/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9067956.jpg",
     "name": "Lebanese Fattoush",
     "prep": "1 Hours 0 Mins",
     "cook": "n/a",
@@ -2721,6 +2818,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/229496/chicken-and-bok-choy-soup/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5422156.jpg",
     "name": "Chicken and Bok Choy Soup",
     "prep": "20 Mins",
     "cook": "30 Mins",
@@ -2748,6 +2846,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/142408/orzo-and-shrimp-salad-with-asparagus/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3225669.jpg",
     "name": "Orzo and Shrimp Salad with Asparagus",
     "prep": "20 Mins",
     "cook": "20 Mins",
@@ -2779,42 +2878,8 @@
     "fat": 11
   },
   {
-    "url": "https://www.allrecipes.com/recipe/166273/vegan-borscht/",
-    "name": "Vegan Borscht",
-    "prep": "45 Mins",
-    "cook": "2 Hours 20 Mins",
-    "ready in": "2 Hours 65 Mins",
-    "servings": "8 servings",
-    "ingredients": [
-      "1 tablespoon olive oil",
-      "3 cloves garlic, minced",
-      "1 onion, chopped",
-      "3 tablespoons olive oil",
-      "2 stalks celery, chopped",
-      "2 carrots, finely chopped",
-      "1 green bell pepper, chopped",
-      "3 beets, including greens, diced",
-      "1 (16 ounce) can whole peeled tomatoes",
-      "\u00bd cup canned peeled and diced tomatoes",
-      "2 potatoes, quartered",
-      "1 cup shredded Swiss chard",
-      "2 cups vegetable broth",
-      "4 cups water",
-      "2 tablespoons dried dill weed",
-      "salt and freshly ground black pepper to taste",
-      "1 (16 ounce) package silken tofu"
-    ],
-    "directions": [
-      "Heat 1 tablespoon of olive oil in a skillet over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Set aside. Heat the remaining 3 tablespoons of olive oil in a large pot over medium-high heat. Stir in the celery, carrots, bell pepper, beets including the greens, whole tomatoes, diced tomatoes, potatoes, Swiss chard, and the onion mixture. Cook and stir until the chard begins to wilt, 4 to 8 minutes. Stir in the vegetable broth, water, dill weed, and salt and pepper. Bring to a boil, and reduce heat to low. Simmer for 1 hour.\n",
-      "Strain half the beets from the broth and place in a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the beets moving before leaving it on to puree. Add the tofu, and continue pureeing until smooth. Stir the tofu mixture back into the pot. Simmer until the mixture is reduced by a third, about another hour. Serve chilled or warm.\n"
-    ],
-    "calories": 198,
-    "carb": 22,
-    "protein": 8,
-    "fat": 10
-  },
-  {
     "url": "https://www.allrecipes.com/recipe/215013/lawannas-mango-salsa-on-tilapia-fillets/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7823058.jpg",
     "name": "LaWanna's Mango Salsa on Tilapia Fillets",
     "prep": "30 Mins",
     "cook": "10 Mins",
@@ -2842,6 +2907,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/230466/savory-pumpkin-hummus/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4194488.jpg",
     "name": "Savory Pumpkin Hummus",
     "prep": "15 Mins",
     "cook": "n/a",
@@ -2871,6 +2937,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/160042/crispy-chipotle-lime-tilapia-with-cool-avocado-sauce/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F955829.jpg",
     "name": "Crispy Chipotle Lime Tilapia with Cool Avocado Sauce",
     "prep": "15 Mins",
     "cook": "30 Mins",
@@ -2903,6 +2970,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/217084/tackee-davids-split-pea-with-ham/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7008429.jpg",
     "name": "Tackee David's Split Pea with Ham",
     "prep": "15 Mins",
     "cook": "2 Hours 50 Mins",
@@ -2931,6 +2999,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/223586/cilantro-lime-quinoa/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6472569.jpg",
     "name": "Cilantro Lime Quinoa",
     "prep": "20 Mins",
     "cook": "25 Mins",
@@ -2961,6 +3030,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/232590/roasted-beet-and-kale-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1054505.jpg",
     "name": "Roasted Beet and Kale Salad",
     "prep": "20 Mins",
     "cook": "1 Hours 0 Mins",
@@ -2994,6 +3064,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/168645/brown-rice-and-black-bean-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8901196.jpg",
     "name": "Brown Rice and Black Bean Salad",
     "prep": "10 Mins",
     "cook": "50 Mins",
@@ -3024,6 +3095,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/75037/jicama-corn-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8340682.jpg",
     "name": "Jicama Corn Salad",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -3048,6 +3120,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/275262/cranberry-bean-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6920339.jpg",
     "name": "Cranberry Bean Salad",
     "prep": "15 Mins",
     "cook": "1 Hours 5 Mins",
@@ -3078,6 +3151,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/215596/veggie-bulgur-salad-kisir/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6538993.jpg",
     "name": "Veggie Bulgur Salad (Kisir)",
     "prep": "15 Mins",
     "cook": "5 Mins",
@@ -3112,6 +3186,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/152211/spaghetti-squash-with-pine-nuts-sage-and-romano/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4462735.jpg",
     "name": "Spaghetti Squash with Pine Nuts, Sage, and Romano",
     "prep": "10 Mins",
     "cook": "50 Mins",
@@ -3138,6 +3213,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222136/healthier-classic-macaroni-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8105221.jpg",
     "name": "Healthier Classic Macaroni Salad",
     "prep": "20 Mins",
     "cook": "10 Mins",
@@ -3169,6 +3245,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/34577/cold-rice-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1598736.jpg",
     "name": "Cold Rice Salad",
     "prep": "30 Mins",
     "cook": "30 Mins",
@@ -3202,6 +3279,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/228526/toasted-buckwheat-tabbouleh/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2350996.jpg",
     "name": "Toasted Buckwheat Tabbouleh",
     "prep": "20 Mins",
     "cook": "15 Mins",
@@ -3230,6 +3308,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/145672/cucumber-avocado-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F198058.jpg",
     "name": "Cucumber Avocado Salad",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -3256,6 +3335,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/234066/zucchini-soup/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1281646.jpg",
     "name": "Zucchini Soup",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -3280,6 +3360,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/106221/nutty-brown-rice-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F212182.jpg",
     "name": "Nutty Brown Rice Salad",
     "prep": "20 Mins",
     "cook": "50 Mins",
@@ -3312,6 +3393,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/223377/heathers-updated-potato-salad/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F871796.jpg",
     "name": "Heather's Updated Potato Salad",
     "prep": "15 Mins",
     "cook": "20 Mins",
@@ -3338,6 +3420,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/236683/protein-packed-spicy-vegan-quinoa-with-edamame/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8207560.jpg",
     "name": "Protein-Packed Spicy Vegan Quinoa with Edamame",
     "prep": "15 Mins",
     "cook": "30 Mins",

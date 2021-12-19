@@ -1,6 +1,7 @@
 [
   {
     "url": "https://www.allrecipes.com/recipe/258817/chicken-pasta-with-artichoke-hearts/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4532486.jpg",
     "name": "Chicken Pasta with Artichoke Hearts",
     "prep": "15 Mins",
     "cook": "33 Mins",
@@ -29,6 +30,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/8918/easy-garlic-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F762603.jpg",
     "name": "Easy Garlic Chicken",
     "prep": "n/a",
     "cook": "n/a",
@@ -52,6 +54,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/31096/easy-caramelized-onion-pork-chops/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5896213.jpg",
     "name": "Easy Caramelized Onion Pork Chops",
     "prep": "5 Mins",
     "cook": "40 Mins",
@@ -77,6 +80,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/12745/mexican-baked-fish/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1014287.jpg",
     "name": "Mexican Baked Fish",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -102,6 +106,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/257165/thai-style-turkey-burgers/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4477186.jpg",
     "name": "Thai-Style Turkey Burgers",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -129,6 +134,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/257865/easy-chorizo-street-tacos/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F877e695e-82ab-4481-8c1b-a812189ce824%2F68dc5f95-c23b-47ae-9362-466ea193bf4e%2F1280x720%2Fmatch%2Fimage.jpg",
     "name": "Easy Chorizo Street Tacos",
     "prep": "10 Mins",
     "cook": "7 Mins",
@@ -153,6 +159,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/254874/roasted-cherry-tomatoes-with-angel-hair/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3838278.jpg",
     "name": "Roasted Cherry Tomatoes with Angel Hair",
     "prep": "20 Mins",
     "cook": "39 Mins",
@@ -182,6 +189,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/246628/spaghetti-cacio-e-pepe/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3478412.jpg",
     "name": "Spaghetti Cacio e Pepe",
     "prep": "5 Mins",
     "cook": "18 Mins",
@@ -205,6 +213,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/24509/grandmas-famous-salmon-cakes/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F785713.jpg",
     "name": "Grandma's Famous Salmon Cakes",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -228,6 +237,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2206436.jpg",
     "name": "Grilled Cheese Sandwich",
     "prep": "5 Mins",
     "cook": "15 Mins",
@@ -248,6 +258,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/218894/easy-swedish-meatball-sauce/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6396200.jpg",
     "name": "Easy Swedish Meatball Sauce",
     "prep": "5 Mins",
     "cook": "15 Mins",
@@ -272,6 +283,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/220716/haluski-cabbage-and-noodles/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1045147.jpg",
     "name": "Haluski - Cabbage and Noodles",
     "prep": "15 Mins",
     "cook": "45 Mins",
@@ -300,6 +312,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/240955/eggplant-pasta/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2165690.jpg",
     "name": "Eggplant Pasta",
     "prep": "15 Mins",
     "cook": "40 Mins",
@@ -324,6 +337,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/228319/perfect-ten-baked-cod/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4523973.jpg",
     "name": "Perfect Ten Baked Cod",
     "prep": "10 Mins",
     "cook": "25 Mins",
@@ -355,6 +369,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/78370/hamburger-steak-with-onions-and-gravy/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5938981.jpg",
     "name": "Hamburger Steak with Onions and Gravy",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -388,6 +403,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Fdbb64698-67ca-469a-b705-66c3aab5535a%2F3cdd1390-54c1-40a8-a98a-1eeee0f0e0d8%2F1280x720%2Fmatch%2Fimage.jpg",
     "name": "Quick Beef Stir-Fry",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -415,6 +431,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/6900/dumplings/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5011529.jpg",
     "name": "Dumplings",
     "prep": "5 Mins",
     "cook": "15 Mins",
@@ -440,6 +457,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5759837.jpg",
     "name": "Easy Korean Ground Beef Bowl",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -469,6 +487,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/160099/seared-ahi-tuna-steaks/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F54690d48-3751-445d-a5ba-8e3d72c6418b%2Fe2e56216-8347-44b7-b059-050b1df58ee1%2F1280x720%2Fmatch%2Fimage.jpg",
     "name": "Seared Ahi Tuna Steaks",
     "prep": "5 Mins",
     "cook": "12 Mins",
@@ -493,6 +512,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/47717/reuben-sandwich-ii/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1340290.jpg",
     "name": "Reuben Sandwich II",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -518,6 +538,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/268494/basic-air-fryer-hot-dogs/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5844319.jpg",
     "name": "Basic Air Fryer Hot Dogs",
     "prep": "5 Mins",
     "cook": "5 Mins",
@@ -539,6 +560,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/49404/juiciest-hamburgers-ever/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F613791.jpg",
     "name": "Juiciest Hamburgers Ever",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -565,6 +587,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/230857/easy-tuna-patties/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1031128.jpg",
     "name": "Easy Tuna Patties",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -591,6 +614,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/25490/broccoli-rice-cheese-and-chicken-casserole/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3878110.jpg",
     "name": "Broccoli, Rice, Cheese, and Chicken Casserole",
     "prep": "15 Mins",
     "cook": "30 Mins",
@@ -621,6 +645,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222009/3-cheese-enchiladas/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3681228.jpg",
     "name": "3 Cheese Enchiladas",
     "prep": "40 Mins",
     "cook": "20 Mins",
@@ -647,6 +672,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/268249/italian-baked-meatballs/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5834922.jpg",
     "name": "Italian Baked Meatballs",
     "prep": "20 Mins",
     "cook": "30 Mins",
@@ -676,6 +702,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/240208/simple-baked-chicken-breasts/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F04%2F22%2F4846102_original-2000.jpg",
     "name": "Simple Baked Chicken Breasts",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -701,6 +728,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/229960/shrimp-scampi-with-pasta/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2606852.jpg",
     "name": "Shrimp Scampi with Pasta",
     "prep": "20 Mins",
     "cook": "20 Mins",
@@ -734,6 +762,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/8495/chicken-cordon-bleu-i/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F04%2F19%2F8495_ChickenCordonBleuI6_DanielleK-1-2000.jpg",
     "name": "Chicken Cordon Bleu I",
     "prep": "10 Mins",
     "cook": "35 Mins",
@@ -760,6 +789,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/273852/easy-baked-chicken-tenders/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6804792.jpg",
     "name": "Easy Baked Chicken Tenders",
     "prep": "n/a",
     "cook": "n/a",
@@ -791,6 +821,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Fddeda39d-801f-4215-8528-b1d7bc2c3b7c%2Fc7f2890d-a532-457a-8b11-b57921a7894d%2F1280x720%2Fmatch%2Fimage.jpg",
     "name": "Simple Beef Stroganoff",
     "prep": "20 Mins",
     "cook": "10 Mins",
@@ -816,6 +847,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/239042/roasted-cauliflower-steaks/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1450538.jpg",
     "name": "Roasted Cauliflower Steaks",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -842,6 +874,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/235153/easy-baked-chicken-thighs/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2559767.jpg",
     "name": "Easy Baked Chicken Thighs",
     "prep": "5 Mins",
     "cook": "30 Mins",
@@ -864,6 +897,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/20680/easy-mexican-casserole/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5670908.jpg",
     "name": "Easy Mexican Casserole",
     "prep": "20 Mins",
     "cook": "30 Mins",
@@ -893,6 +927,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/275548/air-fryer-meatballs/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8096931.jpg",
     "name": "Air Fryer Meatballs",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -920,6 +955,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222202/grilled-cod/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5553669.jpg",
     "name": "Grilled Cod",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -947,6 +983,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/20225/creamed-chipped-beef-on-toast/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F533549.jpg",
     "name": "Creamed Chipped Beef On Toast",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -969,6 +1006,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/22448/easy-fried-eggplant/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2394746.jpg",
     "name": "Easy Fried Eggplant",
     "prep": "20 Mins",
     "cook": "15 Mins",
@@ -990,6 +1028,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/25473/the-perfect-basic-burger/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2294328.jpg",
     "name": "The Perfect Basic Burger",
     "prep": "15 Mins",
     "cook": "16 Mins",
@@ -1014,6 +1053,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/272858/air-fryer-chicken-thighs/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2020%2F10%2F07%2F272858.jpg",
     "name": "Air Fryer Chicken Thighs",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -1040,6 +1080,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/22538/baked-salmon-fillets-dijon/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F265298.jpg",
     "name": "Baked Salmon Fillets Dijon",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -1064,6 +1105,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/260625/crumbed-chicken-tenderloins-air-fried/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F05%2F18%2F260625-crumbed-chicken-tenderloins-air-fried-armag-2000.jpg",
     "name": "Crumbed Chicken Tenderloins (Air Fried)",
     "prep": "15 Mins",
     "cook": "12 Mins",
@@ -1088,6 +1130,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/232906/simple-broiled-haddock/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4535513.jpg",
     "name": "Simple Broiled Haddock",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -1117,6 +1160,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/235432/creamy-herbed-pork-chops/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1073730.jpg",
     "name": "Creamy Herbed Pork Chops",
     "prep": "10 Mins",
     "cook": "25 Mins",
@@ -1144,6 +1188,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/76659/heavenly-halibut/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Ff0852299-4772-4fa4-8918-0cf758fd0744%2Ff3175378-9122-469a-b18d-5a3de1abd068%2F1280x720%2Fmatch%2Fimage.jpg",
     "name": "Heavenly Halibut",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -1172,6 +1217,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/21306/fish-in-foil/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3569458.jpg",
     "name": "Fish in Foil",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -1197,6 +1243,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/258013/easy-tortilla-pizza/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4563133.jpg",
     "name": "Easy Tortilla Pizza",
     "prep": "15 Mins",
     "cook": "8 Mins",
@@ -1227,6 +1274,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/244458/buttered-noodles/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2518260.jpg",
     "name": "Buttered Noodles",
     "prep": "5 Mins",
     "cook": "10 Mins",
@@ -1249,6 +1297,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/76808/italian-sausage-peppers-and-onions/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F480124.jpg",
     "name": "Italian Sausage, Peppers, and Onions",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -1278,6 +1327,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/285028/salmon-meuniere/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307049.jpg",
     "name": "Salmon Meuniere",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -1307,6 +1357,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/8849/baked-chicken-nuggets/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2152306.jpg",
     "name": "Baked Chicken Nuggets",
     "prep": "20 Mins",
     "cook": "20 Mins",
@@ -1333,6 +1384,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/235997/unstuffed-cabbage-roll/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4540812.jpg",
     "name": "Unstuffed Cabbage Roll",
     "prep": "20 Mins",
     "cook": "35 Mins",
@@ -1359,6 +1411,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/82347/best-ever-crab-cakes/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5103019.jpg",
     "name": "Best Ever Crab Cakes",
     "prep": "15 Mins",
     "cook": "12 Mins",
@@ -1386,6 +1439,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/240993/lemon-garlic-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2023030.jpg",
     "name": "Lemon Garlic Chicken",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -1411,6 +1465,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/17846/incredibly-easy-chicken-and-noodles/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1014757.jpg",
     "name": "Incredibly Easy Chicken and Noodles",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -1436,6 +1491,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/219164/the-best-parmesan-chicken-bake/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1010419.jpg",
     "name": "The Best Parmesan Chicken Bake",
     "prep": "15 Mins",
     "cook": "35 Mins",
@@ -1465,6 +1521,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/233444/jamaican-style-curry-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3500472.jpg",
     "name": "Jamaican Style Curry Chicken",
     "prep": "10 Mins",
     "cook": "45 Mins",
@@ -1493,6 +1550,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/229658/oven-roasted-turkey-breast/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2020%2F09%2F04%2FOven-Roasted-Turkey-Breast-2000.jpg",
     "name": "Oven-Roasted Turkey Breast",
     "prep": "15 Mins",
     "cook": "1 Hours 35 Mins",
@@ -1526,6 +1584,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/18871/easy-tuna-casserole/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4560684.jpg",
     "name": "Easy Tuna Casserole",
     "prep": "15 Mins",
     "cook": "30 Mins",
@@ -1550,6 +1609,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/266136/sheet-pan-chicken-with-mozzarella-pesto-and-broccoli/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9268543.jpg",
     "name": "Sheet Pan Chicken with Mozzarella, Pesto, and Broccoli",
     "prep": "20 Mins",
     "cook": "15 Mins",
@@ -1579,6 +1639,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/262851/scallops-with-pesto-cream-sauce/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5151541.jpg",
     "name": "Scallops with Pesto Cream Sauce",
     "prep": "5 Mins",
     "cook": "10 Mins",
@@ -1604,6 +1665,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/14746/mushroom-pork-chops/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F714402.jpg",
     "name": "Mushroom Pork Chops",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -1628,6 +1690,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/21694/marinated-grilled-shrimp/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1248063.jpg",
     "name": "Marinated Grilled Shrimp",
     "prep": "15 Mins",
     "cook": "6 Mins",
@@ -1656,6 +1719,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/239137/three-ingredient-baked-chicken-breasts/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2267790.jpg",
     "name": "Three-Ingredient Baked Chicken Breasts",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -1679,6 +1743,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/46822/indian-chicken-curry-ii/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F04%2F22%2F46822_IndianChickenCurryII_DanielleK_square-2000.jpg",
     "name": "Indian Chicken Curry II",
     "prep": "20 Mins",
     "cook": "25 Mins",
@@ -1713,6 +1778,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/236432/brown-sugar-ham-steak/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2218609.jpg",
     "name": "Brown Sugar Ham Steak",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -1734,6 +1800,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/279837/cheesy-chicken-and-broccoli-casserole/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8103240.jpg",
     "name": "Cheesy Chicken and Broccoli Casserole",
     "prep": "15 Mins",
     "cook": "35 Mins",
@@ -1764,6 +1831,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/134483/chicago-style-hot-dog/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2373328.jpg",
     "name": "Chicago-Style Hot Dog",
     "prep": "10 Mins",
     "cook": "5 Mins",
@@ -1791,6 +1859,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/50233/black-pepper-beef-and-cabbage-stir-fry/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F53585520-468a-4b23-991a-8fd853d726d2%2Ff75b551a-dd6c-404d-864a-c88ea8153f1d%2F1280x720%2Fmatch%2Fimage.jpg",
     "name": "Black Pepper Beef and Cabbage Stir Fry",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -1819,6 +1888,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222585/baked-chicken-and-zucchini/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F07%2F26%2F222585_BakedChickenAndZucchini_MFS_033.jpg",
     "name": "Baked Chicken and Zucchini",
     "prep": "20 Mins",
     "cook": "30 Mins",
@@ -1854,6 +1924,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/254819/taco-bake-casserole/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7941558.jpg",
     "name": "Taco Bake Casserole",
     "prep": "20 Mins",
     "cook": "32 Mins",
@@ -1885,6 +1956,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/85127/kielbasa-with-peppers-and-potatoes/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F677450.jpg",
     "name": "Kielbasa with Peppers and Potatoes",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -1908,6 +1980,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/244950/baked-chicken-schnitzel/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3455742.jpg",
     "name": "Baked Chicken Schnitzel",
     "prep": "20 Mins",
     "cook": "10 Mins",
@@ -1937,6 +2010,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/14554/sirloin-steak-with-garlic-butter/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F833314.jpg",
     "name": "Sirloin Steak with Garlic Butter",
     "prep": "20 Mins",
     "cook": "10 Mins",
@@ -1962,6 +2036,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/231549/baked-flounder-with-panko-and-parmesan/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3733038.jpg",
     "name": "Baked Flounder with Panko and Parmesan",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -1988,6 +2063,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/11951/linguine-with-clam-sauce/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F52131.jpg",
     "name": "Linguine with Clam Sauce",
     "prep": "20 Mins",
     "cook": "12 Mins",
@@ -2014,6 +2090,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/265979/air-fryer-baked-potatoes/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9314433.jpg",
     "name": "Air Fryer Baked Potatoes",
     "prep": "5 Mins",
     "cook": "1 Hours 0 Mins",
@@ -2036,6 +2113,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/36621/philly-steak-sandwich/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1100227.jpg",
     "name": "Philly Steak Sandwich",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -2071,6 +2149,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/52005/tender-italian-baked-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4536524.jpg",
     "name": "Tender Italian Baked Chicken",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -2095,6 +2174,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/239047/one-pan-orecchiette-pasta/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4541124.jpg",
     "name": "One Pan Orecchiette Pasta",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -2122,6 +2202,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/236814/baked-fresh-rainbow-trout/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1431579.jpg",
     "name": "Baked Fresh Rainbow Trout",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -2149,6 +2230,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/209578/blt/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4543157.jpg",
     "name": "BLT",
     "prep": "5 Mins",
     "cook": "10 Mins",
@@ -2172,6 +2254,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/8847/baked-honey-mustard-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2334.jpg",
     "name": "Baked Honey Mustard Chicken",
     "prep": "15 Mins",
     "cook": "45 Mins",
@@ -2198,6 +2281,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/273213/crispy-beer-batter-fish-chips/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6602926.jpg",
     "name": "Crispy Beer Batter Fish & Chips",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -2227,6 +2311,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/201849/mongolian-beef-and-spring-onions/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3189150.jpg",
     "name": "Mongolian Beef and Spring Onions",
     "prep": "12 Mins",
     "cook": "8 Mins",
@@ -2258,6 +2343,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/231939/honey-glazed-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2Fbef450f6-ff79-47a9-9d66-1ceb7f4e8f9e%2F9f58b44d-2095-4714-a633-f37b4f14d9c0%2F1280x720%2Fmatch%2Fimage.jpg",
     "name": "Honey Glazed Chicken",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -2281,6 +2367,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/216757/savory-sea-scallops-and-angel-hair-pasta/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8248413.jpg",
     "name": "Savory Sea Scallops and Angel Hair Pasta",
     "prep": "25 Mins",
     "cook": "5 Mins",
@@ -2310,6 +2397,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/261600/sheet-pan-lemon-butter-garlic-shrimp-with-asparagus/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9347673.jpg",
     "name": "Sheet Pan Lemon Butter Garlic Shrimp with Asparagus",
     "prep": "10 Mins",
     "cook": "12 Mins",
@@ -2342,6 +2430,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/21862/barbecue-beef-cups/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F17353.jpg",
     "name": "Barbecue Beef Cups",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -2367,6 +2456,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/269366/simple-sauteed-sesame-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5659684.jpg",
     "name": "Simple Sauteed Sesame Chicken",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -2396,6 +2486,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/200036/southern-fried-chicken-livers/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6394507.jpg",
     "name": "Southern Fried Chicken Livers",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -2423,6 +2514,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/220164/classic-cuban-style-picadillo/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9201357.jpg",
     "name": "Classic Cuban-Style Picadillo",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -2456,6 +2548,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/269500/creamy-garlic-pasta/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5886077.jpg",
     "name": "Creamy Garlic Pasta",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -2484,6 +2577,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/64557/grandmothers-pork-chop-dinner/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6319870.jpg",
     "name": "Grandmother's Pork Chop Dinner",
     "prep": "15 Mins",
     "cook": "40 Mins",
@@ -2509,6 +2603,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/21736/pan-seared-salmon-i/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F998740.jpg",
     "name": "Pan Seared Salmon I",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -2534,6 +2629,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/166624/tomato-basil-salmon/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F691788.jpg",
     "name": "Tomato Basil Salmon",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -2557,6 +2653,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/285029/panko-crusted-air-fryer-mahi-mahi/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9307755.jpg",
     "name": "Panko-Crusted Air Fryer Mahi Mahi",
     "prep": "5 Mins",
     "cook": "15 Mins",
@@ -2588,6 +2685,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/235851/how-to-cook-trout/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1128597.jpg",
     "name": "How to Cook Trout",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -2614,6 +2712,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/16700/salsa-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4487510.jpg",
     "name": "Salsa Chicken",
     "prep": "5 Mins",
     "cook": "40 Mins",
@@ -2639,6 +2738,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/25874/shrimp-scampi-bake/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F808176.jpg",
     "name": "Shrimp Scampi Bake",
     "prep": "30 Mins",
     "cook": "15 Mins",
@@ -2665,6 +2765,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/212451/enchanted-sour-cream-chicken-enchiladas/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7254397.jpg",
     "name": "Enchanted Sour Cream Chicken Enchiladas",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -2692,6 +2793,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222509/easy-and-quick-halushki/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1119260.jpg",
     "name": "Easy and Quick Halushki",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -2716,6 +2818,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/273414/baked-pesto-chicken-tenders/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9229616.jpg",
     "name": "Baked Pesto Chicken Tenders",
     "prep": "5 Mins",
     "cook": "30 Mins",
@@ -2739,6 +2842,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/24681/oven-fried-pork-chops/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F422232.jpg",
     "name": "Oven-Fried Pork Chops",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -2764,6 +2868,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/234415/luckys-quickie-chickie/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1233421.jpg",
     "name": "Lucky's Quickie Chickie",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -2788,6 +2893,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/228043/whole-grilled-trout/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9104906.jpg",
     "name": "Whole Grilled Trout",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -2816,6 +2922,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/230818/pork-fried-rice/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1353688.jpg",
     "name": "Pork Fried Rice",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -2845,6 +2952,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/190015/slow-cooker-moscow-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F614186.jpg",
     "name": "Slow Cooker Moscow Chicken",
     "prep": "10 Mins",
     "cook": "5 Hours 0 Mins",
@@ -2870,6 +2978,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/241372/easy-baked-bbq-pork-chops/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2571434.jpg",
     "name": "Easy Baked BBQ Pork Chops",
     "prep": "15 Mins",
     "cook": "30 Mins",
@@ -2900,6 +3009,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/229324/ground-beef-and-cabbage/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1118509.jpg",
     "name": "Ground Beef and Cabbage",
     "prep": "15 Mins",
     "cook": "45 Mins",
@@ -2923,6 +3033,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/195045/the-best-spaghetti-casserole/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F755403.jpg",
     "name": "The Best Spaghetti Casserole",
     "prep": "15 Mins",
     "cook": "55 Mins",
@@ -2951,6 +3062,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/34419/easy-red-beans-and-rice/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4458417.jpg",
     "name": "Easy Red Beans and Rice",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -2980,6 +3092,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/228056/parmesan-crusted-tilapia-fillets/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1122696.jpg",
     "name": "Parmesan Crusted Tilapia Fillets",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -3006,6 +3119,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/17303/taco-pie/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F144650.jpg",
     "name": "Taco Pie",
     "prep": "20 Mins",
     "cook": "10 Mins",
@@ -3032,6 +3146,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/25911/mamas-best-broiled-tomato-sandwich/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F698855.jpg",
     "name": "Mama's Best Broiled Tomato Sandwich",
     "prep": "10 Mins",
     "cook": "5 Mins",
@@ -3061,6 +3176,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/272437/keto-smothered-chicken-thighs/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6483083.jpg",
     "name": "Keto Smothered Chicken Thighs",
     "prep": "10 Mins",
     "cook": "50 Mins",
@@ -3092,6 +3208,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/222405/polish-noodles-cottage-cheese-and-noodles/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5638299.jpg",
     "name": "Polish Noodles (Cottage Cheese and Noodles)",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -3118,6 +3235,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/219431/parmesan-crusted-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F985877.jpg",
     "name": "Parmesan Crusted Chicken",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -3142,6 +3260,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/281362/oven-fried-chicken-thighs/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8459611.jpg",
     "name": "Oven-\"Fried\" Chicken Thighs",
     "prep": "10 Mins",
     "cook": "40 Mins",
@@ -3171,6 +3290,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/256349/baked-fish-fillets/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7013486.jpg",
     "name": "Baked Fish Fillets",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -3198,6 +3318,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/26714/bologna-salad-sandwich-spread-ii/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F671275.jpg",
     "name": "Bologna Salad Sandwich Spread II",
     "prep": "20 Mins",
     "cook": "n/a",
@@ -3221,6 +3342,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/262506/panko-parmesan-salmon/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7052071.jpg",
     "name": "Panko Parmesan Salmon",
     "prep": "5 Mins",
     "cook": "15 Mins",
@@ -3249,6 +3371,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/9011/simple-lemon-herb-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F530026.jpg",
     "name": "Simple Lemon Herb Chicken",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -3273,6 +3396,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/87279/salmon-with-lemon-and-dill/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2363185.jpg",
     "name": "Salmon with Lemon and Dill",
     "prep": "10 Mins",
     "cook": "25 Mins",
@@ -3299,6 +3423,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/172704/chinese-pepper-steak/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7127114.jpg",
     "name": "Chinese Pepper Steak",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -3328,6 +3453,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/275576/easy-air-fryer-pork-chops/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6954462.jpg",
     "name": "Easy Air Fryer Pork Chops",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -3357,6 +3483,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/245367/pan-roasted-chicken-breasts/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3088895.jpg",
     "name": "Pan-Roasted Chicken Breasts",
     "prep": "5 Mins",
     "cook": "12 Mins",
@@ -3383,6 +3510,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/75115/grilled-swordfish/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2371679.jpg",
     "name": "Grilled Swordfish",
     "prep": "10 Mins",
     "cook": "12 Mins",
@@ -3406,6 +3534,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/240708/broccoli-and-chicken-stir-fry/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1927967.jpg",
     "name": "Broccoli and Chicken Stir-Fry",
     "prep": "15 Mins",
     "cook": "20 Mins",
@@ -3435,6 +3564,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/8597/quick-and-easy-mexican-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F394699.jpg",
     "name": "Quick and Easy Mexican Chicken",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -3462,6 +3592,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/82817/balsamic-glazed-salmon-fillets/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F54136.jpg",
     "name": "Balsamic-Glazed Salmon Fillets",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -3490,6 +3621,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/218562/super-easy-chicken-and-dumplings/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3438336.jpg",
     "name": "Super Easy Chicken and Dumplings",
     "prep": "5 Mins",
     "cook": "15 Mins",
@@ -3511,6 +3643,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/261567/baked-fried-breaded-eggplant/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9182465.jpg",
     "name": "Baked 'Fried' Breaded Eggplant",
     "prep": "20 Mins",
     "cook": "20 Mins",
@@ -3541,6 +3674,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/221936/quick-fish-tacos/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1017268.jpg",
     "name": "Quick Fish Tacos",
     "prep": "20 Mins",
     "cook": "15 Mins",
@@ -3571,6 +3705,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/240400/skillet-chicken-bulgogi/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2280937.jpg",
     "name": "Skillet Chicken Bulgogi",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -3598,6 +3733,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/220824/maui-wowie-shrimp/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1072828.jpg",
     "name": "Maui Wowie Shrimp",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -3624,6 +3760,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/24712/ginger-veggie-stir-fry/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F709130.jpg",
     "name": "Ginger Veggie Stir-Fry",
     "prep": "25 Mins",
     "cook": "15 Mins",
@@ -3654,6 +3791,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/103144/balsamic-chicken/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1320598.jpg",
     "name": "Balsamic Chicken",
     "prep": "5 Mins",
     "cook": "20 Mins",
@@ -3679,6 +3817,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/22228/slow-cooker-roast-beef/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F471445.jpg",
     "name": "Slow Cooker Roast Beef",
     "prep": "5 Mins",
     "cook": "22 Hours 0 Mins",
@@ -3701,6 +3840,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/8594/easy-chicken-casserole/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5293581.jpg",
     "name": "Easy Chicken Casserole",
     "prep": "n/a",
     "cook": "n/a",
@@ -3726,6 +3866,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/263628/best-chicken-patties/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5290561.jpg",
     "name": "Best Chicken Patties",
     "prep": "25 Mins",
     "cook": "10 Mins",
@@ -3754,6 +3895,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/276006/air-fryer-lobster-tails-with-lemon-garlic-butter/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7617251.jpg",
     "name": "Air Fryer Lobster Tails with Lemon-Garlic Butter",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -3780,6 +3922,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/284318/easy-ramen-with-chicken-and-teriyaki-sauce/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F97bc23a3-8c47-4b21-9327-31e70a933eed%2Fc4a6c8b4-b839-4f68-ab6e-f37d15432f49%2F1280x720%2Fmatch%2Fimage.jpg",
     "name": "Easy Ramen with Chicken and Teriyaki Sauce",
     "prep": "15 Mins",
     "cook": "10 Mins",
@@ -3807,6 +3950,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/269068/honey-garlic-chicken-thighs/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6308177.jpg",
     "name": "Honey-Garlic Chicken Thighs",
     "prep": "5 Mins",
     "cook": "15 Mins",
@@ -3834,6 +3978,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/245775/spaghetti-alla-carbonara-the-traditional-italian-recipe/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F1033249144001%2F2ed2889f-bf0b-4f37-9951-0007d58b9d09%2F5fbfac6d-2742-4f6c-b0a3-5007f10661f3%2F1280x720%2Fmatch%2Fimage.jpg",
     "name": "Spaghetti alla Carbonara: the Traditional Italian Recipe",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -3859,6 +4004,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/230905/savory-pan-seared-tuna-steaks/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5018922.jpg",
     "name": "Savory Pan-Seared Tuna Steaks",
     "prep": "10 Mins",
     "cook": "5 Mins",
@@ -3887,6 +4033,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/230382/seasoned-swai-fish-fillet/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9240833.jpg",
     "name": "Seasoned Swai Fish Fillet",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -3917,6 +4064,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/217339/crispy-baked-walleye/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1126518.jpg",
     "name": "Crispy Baked Walleye",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -3943,6 +4091,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/241609/pork-rub-rubbed-and-baked-pork-chops/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2280853.jpg",
     "name": "Pork Rub Rubbed and Baked Pork Chops",
     "prep": "5 Mins",
     "cook": "20 Mins",
@@ -3970,6 +4119,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/259455/instant-pot-mushroom-risotto/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5735315.jpg",
     "name": "Instant Pot&reg; Mushroom Risotto",
     "prep": "15 Mins",
     "cook": "30 Mins",

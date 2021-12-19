@@ -32,6 +32,7 @@ def get_html_data(url):
 def build_recipe(html_data):
     new_recipe = dict()
     new_recipe['url'] = html_data[1]['mainEntityOfPage']
+    new_recipe['imageUrl'] = html_data[1]['image']['url']
     new_recipe['name'] = html_data[1]['name']
     new_recipe['prep'] = parse_time(html_data[1]['prepTime'])
     new_recipe['cook'] = parse_time(html_data[1]['cookTime'])

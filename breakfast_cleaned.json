@@ -1,6 +1,7 @@
 [
   {
     "url": "https://www.allrecipes.com/recipe/234905/grandma-nancys-apricot-almond-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060395.jpg",
     "name": "Grandma Nancy's Apricot Almond Granola",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -29,6 +30,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/88384/honey-peanut-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8431494.jpg",
     "name": "Honey Peanut Granola",
     "prep": "15 Mins",
     "cook": "1 Hours 0 Mins",
@@ -58,6 +60,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/127186/crunchy-pumpkin-pie-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F231502.jpg",
     "name": "Crunchy Pumpkin Pie Granola",
     "prep": "15 Mins",
     "cook": "1 Hours 0 Mins",
@@ -88,6 +91,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/38294/sugar-free-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F344405.jpg",
     "name": "Sugar Free Granola",
     "prep": "15 Mins",
     "cook": "20 Mins",
@@ -118,6 +122,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/231997/grandma-dalleys-honey-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1946874.jpg",
     "name": "Grandma Dalley's Honey Granola",
     "prep": "15 Mins",
     "cook": "20 Mins",
@@ -145,6 +150,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/213795/dees-dark-chocolate-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F617297.jpg",
     "name": "Dee's Dark Chocolate Granola",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -177,6 +183,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/232108/crunchy-peanut-butter-chocolate-coconut-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1002299.jpg",
     "name": "Crunchy Peanut Butter, Chocolate, Coconut Granola",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -207,6 +214,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/86853/coconut-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F427593.jpg",
     "name": "Coconut Granola",
     "prep": "20 Mins",
     "cook": "16 Mins",
@@ -238,6 +246,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/162944/easy-peezy-caramel-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F69613.jpg",
     "name": "Easy-Peezy Caramel Granola",
     "prep": "10 Mins",
     "cook": "5 Mins",
@@ -261,6 +270,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/69520/moms-best-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F16028.jpg",
     "name": "Mom's Best Granola",
     "prep": "15 Mins",
     "cook": "1 Hours 0 Mins",
@@ -292,6 +302,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/229448/chef-johns-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3956850.jpg",
     "name": "Chef John's Granola",
     "prep": "15 Mins",
     "cook": "1 Hours 0 Mins",
@@ -322,6 +333,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/201510/sweet-and-salty-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F239548.jpg",
     "name": "Sweet and Salty Granola",
     "prep": "10 Mins",
     "cook": "45 Mins",
@@ -349,6 +361,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/220814/maple-pecan-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5419044.jpg",
     "name": "Maple Pecan Granola",
     "prep": "10 Mins",
     "cook": "40 Mins",
@@ -381,6 +394,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/261939/crunchy-sugar-free-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5311964.jpg",
     "name": "Crunchy Sugar-Free Granola",
     "prep": "10 Mins",
     "cook": "1 Hours 0 Mins",
@@ -409,6 +423,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/264951/chef-johns-chocolate-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5418854.jpg",
     "name": "Chef John's Chocolate Granola",
     "prep": "10 Mins",
     "cook": "1 Hours 0 Mins",
@@ -437,6 +452,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/273259/keto-friendly-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6367059.jpg",
     "name": "Keto-Friendly Granola",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -463,6 +479,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/232084/homemade-granola-cereal/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1364384.jpg",
     "name": "Homemade Granola Cereal",
     "prep": "10 Mins",
     "cook": "25 Mins",
@@ -493,6 +510,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/15035/granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2101343.jpg",
     "name": "Granola",
     "prep": "n/a",
     "cook": "n/a",
@@ -522,6 +540,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/255870/honey-sweetened-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4076382.jpg",
     "name": "Honey-Sweetened Granola",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -551,6 +570,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/89403/jennifers-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1033591.jpg",
     "name": "Jennifer's Granola",
     "prep": "10 Mins",
     "cook": "1 Hours 0 Mins",
@@ -583,6 +603,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/231534/vanilla-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F973697.jpg",
     "name": "Vanilla Granola",
     "prep": "10 Mins",
     "cook": "25 Mins",
@@ -612,6 +633,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/218915/almond-crunch-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F982856.jpg",
     "name": "Almond Crunch Granola",
     "prep": "n/a",
     "cook": "n/a",
@@ -636,6 +658,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/139641/light-fruit-and-nut-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F677246.jpg",
     "name": "Light Fruit and Nut Granola",
     "prep": "10 Mins",
     "cook": "35 Mins",
@@ -666,6 +689,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/162340/cinnamon-stove-top-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9370304.jpg",
     "name": "Cinnamon Stove Top Granola",
     "prep": "10 Mins",
     "cook": "10 Mins",
@@ -693,6 +717,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/254717/quinoa-and-steel-cut-oats-crunchy-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6503401.jpg",
     "name": "Quinoa and Steel-Cut Oats Crunchy Granola",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -729,6 +754,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/263653/the-ben-franklin-breakfast-bowl/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5293310.jpg",
     "name": "The Ben Franklin Breakfast Bowl",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -750,6 +776,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/245160/maple-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2855681.jpg",
     "name": "Maple Granola",
     "prep": "10 Mins",
     "cook": "40 Mins",
@@ -774,6 +801,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/47724/almond-maple-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F28676.jpg",
     "name": "Almond Maple Granola",
     "prep": "20 Mins",
     "cook": "1 Hours 15 Mins",
@@ -804,6 +832,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/231625/crunchy-granola-breakfast-cereal/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1023285.jpg",
     "name": "Crunchy Granola Breakfast Cereal",
     "prep": "15 Mins",
     "cook": "1 Hours 20 Mins",
@@ -839,6 +868,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/236898/almond-raisin-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1114765.jpg",
     "name": "Almond-Raisin Granola",
     "prep": "10 Mins",
     "cook": "1 Hours 0 Mins",
@@ -870,6 +900,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/276079/daniel-fast-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1921901.jpg",
     "name": "Daniel Fast Granola",
     "prep": "15 Mins",
     "cook": "3 Hours 5 Mins",
@@ -903,6 +934,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/242003/almost-fat-free-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3456108.jpg",
     "name": "Almost-Fat-Free Granola",
     "prep": "10 Mins",
     "cook": "2 Hours 0 Mins",
@@ -934,6 +966,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/267900/pumpkin-seed-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5719442.jpg",
     "name": "Pumpkin Seed Granola",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -962,6 +995,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/220811/nutty-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F812976.jpg",
     "name": "Nutty Granola",
     "prep": "20 Mins",
     "cook": "20 Mins",
@@ -998,6 +1032,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/71031/fruit-n-honey-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F371330.jpg",
     "name": "Fruit 'n' Honey Granola",
     "prep": "20 Mins",
     "cook": "20 Mins",
@@ -1031,6 +1066,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/72301/easy-cranberry-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4528985.jpg",
     "name": "Easy Cranberry Granola",
     "prep": "5 Mins",
     "cook": "20 Mins",
@@ -1059,6 +1095,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/241445/ginger-coconut-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6720034.jpg",
     "name": "Ginger Coconut Granola",
     "prep": "15 Mins",
     "cook": "25 Mins",
@@ -1090,6 +1127,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/238573/simply-chocolate-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4551426.jpg",
     "name": "Simply Chocolate Granola",
     "prep": "15 Mins",
     "cook": "1 Hours 0 Mins",
@@ -1120,6 +1158,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/238064/easiest-peanut-butter-granola-ever/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1157695.jpg",
     "name": "Easiest Peanut Butter Granola Ever",
     "prep": "10 Mins",
     "cook": "15 Mins",
@@ -1146,6 +1185,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/241456/honey-almond-seeded-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2653740.jpg",
     "name": "Honey-Almond Seeded Granola",
     "prep": "15 Mins",
     "cook": "20 Mins",
@@ -1177,6 +1217,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/247188/dark-honey-pecan-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8095988.jpg",
     "name": "Dark Honey Pecan Granola",
     "prep": "10 Mins",
     "cook": "1 Hours 17 Mins",
@@ -1207,6 +1248,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/36438/european-muesli/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F603025.jpg",
     "name": "European Muesli",
     "prep": "20 Mins",
     "cook": "2 Hours 0 Mins",
@@ -1239,6 +1281,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/261488/mocha-morning-breakfast-yogurt/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4479476.jpg",
     "name": "Mocha Morning Breakfast Yogurt",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -1266,6 +1309,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/259262/acai-smoothie-bowl/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4540557.jpg",
     "name": "Acai Smoothie Bowl",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -1288,6 +1332,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/242054/yogurt-and-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2250020.jpg",
     "name": "Yogurt and Granola",
     "prep": "5 Mins",
     "cook": "n/a",
@@ -1310,6 +1355,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/215778/toasted-quinoa-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1408575.jpg",
     "name": "Toasted Quinoa Granola",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -1334,6 +1380,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/263266/easy-grain-free-nutty-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4564650.jpg",
     "name": "Easy Grain-Free Nutty Granola",
     "prep": "15 Mins",
     "cook": "1 Hours 20 Mins",
@@ -1361,6 +1408,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/238860/buckwheat-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1890353.jpg",
     "name": "Buckwheat Granola",
     "prep": "10 Mins",
     "cook": "40 Mins",
@@ -1391,6 +1439,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/245845/healthy-chocolate-almond-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3550179.jpg",
     "name": "Healthy Chocolate Almond Granola",
     "prep": "15 Mins",
     "cook": "50 Mins",
@@ -1421,6 +1470,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/220812/crunchy-and-delicious-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F812723.jpg",
     "name": "Crunchy and Delicious Granola",
     "prep": "15 Mins",
     "cook": "35 Mins",
@@ -1456,6 +1506,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/257730/vegan-muesli/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6317975.jpg",
     "name": "Vegan Muesli",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -1482,6 +1533,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/230752/mals-maple-date-pecan-granola-in-the-slow-cooker/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F966448.jpg",
     "name": "Mal's Maple Date Pecan Granola in the Slow Cooker",
     "prep": "5 Mins",
     "cook": "3 Hours 0 Mins",
@@ -1513,6 +1565,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/242249/maple-pecan-granola-with-dried-fruit/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3178002.jpg",
     "name": "Maple Pecan Granola with Dried Fruit",
     "prep": "10 Mins",
     "cook": "35 Mins",
@@ -1544,6 +1597,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/245657/mighty-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7392529.jpg",
     "name": "Mighty Granola",
     "prep": "25 Mins",
     "cook": "26 Mins",
@@ -1584,6 +1638,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/270832/pina-colada-cottage-cheese-bowl/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6401608.jpg",
     "name": "Pina Colada Cottage Cheese Bowl",
     "prep": "10 Mins",
     "cook": "n/a",
@@ -1606,6 +1661,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/139318/peanut-butter-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3384464.jpg",
     "name": "Peanut Butter Granola",
     "prep": "15 Mins",
     "cook": "45 Mins",
@@ -1636,6 +1692,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/236724/addictive-and-healthy-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1110710.jpg",
     "name": "Addictive and Healthy Granola",
     "prep": "15 Mins",
     "cook": "35 Mins",
@@ -1672,6 +1729,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/236704/cinnamon-vanilla-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1206763.jpg",
     "name": "Cinnamon Vanilla Granola",
     "prep": "10 Mins",
     "cook": "1 Hours 0 Mins",
@@ -1702,6 +1760,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/255206/healthy-hemp-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9193466.jpg",
     "name": "Healthy Hemp Granola",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -1732,6 +1791,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/85628/ultimate-irresistible-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3863054.jpg",
     "name": "Ultimate Irresistible Granola",
     "prep": "15 Mins",
     "cook": "20 Mins",
@@ -1763,6 +1823,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/45540/nutty-granola-ii/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F47135.jpg",
     "name": "Nutty Granola II",
     "prep": "5 Mins",
     "cook": "25 Mins",
@@ -1792,6 +1853,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/276337/maple-pecan-olive-oil-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9069068.jpg",
     "name": "Maple-Pecan-Olive Oil Granola",
     "prep": "15 Mins",
     "cook": "15 Mins",
@@ -1822,6 +1884,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/234179/cinnamon-maple-granola-with-coconut/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1043624.jpg",
     "name": "Cinnamon Maple Granola with Coconut",
     "prep": "10 Mins",
     "cook": "35 Mins",
@@ -1850,6 +1913,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/238242/almond-maple-coconut-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1298169.jpg",
     "name": "Almond Maple Coconut Granola",
     "prep": "10 Mins",
     "cook": "20 Mins",
@@ -1878,6 +1942,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/262478/canadian-vegan-peanut-butter-granola-recipe/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4929434.jpg",
     "name": "Canadian Vegan Peanut Butter Granola Recipe",
     "prep": "5 Mins",
     "cook": "20 Mins",
@@ -1907,6 +1972,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/234979/mostly-oats-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1060694.jpg",
     "name": "Mostly Oats Granola",
     "prep": "15 Mins",
     "cook": "20 Mins",
@@ -1938,6 +2004,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/261682/savory-nut-and-seed-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4585268.jpg",
     "name": "Savory Nut and Seed Granola",
     "prep": "10 Mins",
     "cook": "25 Mins",
@@ -1974,6 +2041,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/255309/cinnamon-apple-and-banana-granolameal/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4423846.jpg",
     "name": "Cinnamon Apple and Banana \"Granolameal\"",
     "prep": "10 Mins",
     "cook": "5 Mins",
@@ -2001,6 +2069,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/257526/no-nut-baked-granola/",
+    "imageUrl": "https://www.allrecipes.com/img/misc/og-default.png",
     "name": "No Nut Baked Granola",
     "prep": "10 Mins",
     "cook": "30 Mins",
@@ -2029,6 +2098,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/231431/crunchy-nutty-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3649395.jpg",
     "name": "Crunchy Nutty Granola",
     "prep": "40 Mins",
     "cook": "45 Mins",
@@ -2067,6 +2137,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/266876/sweet-nut-and-seed-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9239757.jpg",
     "name": "Sweet Nut and Seed Granola",
     "prep": "15 Mins",
     "cook": "45 Mins",
@@ -2106,6 +2177,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/275182/cranberry-hibiscus-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2363713.jpg",
     "name": "Cranberry-Hibiscus Granola",
     "prep": "10 Mins",
     "cook": "25 Mins",
@@ -2137,6 +2209,7 @@
   },
   {
     "url": "https://www.allrecipes.com/recipe/216139/gluten-free-coco-nola-granola/",
+    "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7250703.jpg",
     "name": "Gluten-Free Coco-Nola (Granola)",
     "prep": "15 Mins",
     "cook": "2 Hours 30 Mins",
